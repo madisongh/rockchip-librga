@@ -1,3 +1,21 @@
+librga (2.2.0-1ubuntu2.2firefly3) focal; urgency=medium
+
+  * Firefly release
+
+ -- Putin Lee <putin.li@rock-chips.com>  Wed, 29 Jun 2022 08:42:33 +0000
+
+librga (2.2.0-1ubuntu2.2firefly2) focal; urgency=medium
+
+  * Firefly release
+
+ -- Putin Lee <putin.li@rock-chips.com>  Wed, 29 Jun 2022 08:42:32 +0000
+
+librga (2.2.0-1ubuntu2.2firefly1) focal; urgency=medium
+
+  * Firefly release
+
+ -- Putin Lee <putin.li@rock-chips.com>  Wed, 29 Jun 2022 08:42:30 +0000
+
 librga (2.2.0-1) unstable; urgency=medium
 
   * debian: Update to support rga3
